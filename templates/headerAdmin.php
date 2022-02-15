@@ -13,7 +13,7 @@
             <a class="nav-link" href="#">Recetas</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link disabled">Añadir recetas</a>
+            <a class="nav-link">Añadir recetas</a>
           </li>
         </ul>
         <form class="d-flex">

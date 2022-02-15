@@ -10,8 +10,15 @@
         integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
         crossorigin="anonymous"></script>
     <title>Document</title>
+    <style>
+        body{
+            width: 800px; margin: 0 auto;
+        }
+    </style>
 </head>
 <body>
-    
+    <?php include "templates/headerAdmin.php"; ?>
+<h1>Cuerpo de la web Administrador</h1>
+    <?php include "templates/footer.php"; ?>
 </body>
 </html>
